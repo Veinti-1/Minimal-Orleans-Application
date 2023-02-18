@@ -1,0 +1,12 @@
+/Users/juanses/Projects/Silo/GrainInterfaces/bin/Debug/net7.0/GrainInterfaces.deps.json
+/Users/juanses/Projects/Silo/GrainInterfaces/bin/Debug/net7.0/GrainInterfaces.dll
+/Users/juanses/Projects/Silo/GrainInterfaces/bin/Debug/net7.0/GrainInterfaces.pdb
+/Users/juanses/Projects/Silo/GrainInterfaces/obj/Debug/net7.0/GrainInterfaces.csproj.AssemblyReference.cache
+/Users/juanses/Projects/Silo/GrainInterfaces/obj/Debug/net7.0/GrainInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanses/Projects/Silo/GrainInterfaces/obj/Debug/net7.0/GrainInterfaces.AssemblyInfoInputs.cache
+/Users/juanses/Projects/Silo/GrainInterfaces/obj/Debug/net7.0/GrainInterfaces.AssemblyInfo.cs
+/Users/juanses/Projects/Silo/GrainInterfaces/obj/Debug/net7.0/GrainInterfaces.csproj.CoreCompileInputs.cache
+/Users/juanses/Projects/Silo/GrainInterfaces/obj/Debug/net7.0/GrainInterfaces.dll
+/Users/juanses/Projects/Silo/GrainInterfaces/obj/Debug/net7.0/refint/GrainInterfaces.dll
+/Users/juanses/Projects/Silo/GrainInterfaces/obj/Debug/net7.0/GrainInterfaces.pdb
+/Users/juanses/Projects/Silo/GrainInterfaces/obj/Debug/net7.0/ref/GrainInterfaces.dll
